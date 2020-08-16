@@ -1,0 +1,9 @@
+Library
+  signature TEST
+  structure Test
+is
+  $/basis.cm
+  $SMACKAGE/result/v1/sources.cm
+
+  TEST.sig
+  Test.sml

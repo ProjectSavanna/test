@@ -1,0 +1,3 @@
+signature TEST =
+  sig
+  end
